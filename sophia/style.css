@@ -1,0 +1,19 @@
+.mar{
+    padding: 10px;
+}
+title{
+    color: blue;
+}
+h1{
+    color: green;
+}
+.mar{
+    color: red;
+}
+p{
+    border: 12in;
+}
+button{background-color: rgb(38, 170, 45);
+color: rgb(235, 171, 33);
+size: 12in
+}
